@@ -1,8 +1,9 @@
+![IMG_0903](https://user-images.githubusercontent.com/38378135/123518868-7dfed780-d6da-11eb-97f6-3d8c31665374.PNG)
 # Melody_in_your_Heart
 Melody Generator for your NAME.<br>
 DEMO Video : https://youtu.be/N8j7PnDejmM <br>
 
-![67762184 7a498c580fc6a7629f93a48d85f36c49 21061009](https://user-images.githubusercontent.com/38378135/123517734-417cad00-d6d5-11eb-8e11-805101242bf8.jpg)
+![67762184 bd34eb45508f47b554c4b0cef64930ba 21061009](https://user-images.githubusercontent.com/38378135/123517913-3a09d380-d6d6-11eb-999b-4eb494f06b75.jpg)
 
 ![67762184 3342865d5067d875754731dc6cb16f1c 21061009](https://user-images.githubusercontent.com/38378135/123517771-725ce200-d6d5-11eb-82ee-1dbe173ff64d.jpg)
 
@@ -41,5 +42,3 @@ DEMO Video : https://youtu.be/N8j7PnDejmM <br>
 ![67762184 b077866008935d43aa1cd47159f8cff4 21061009](https://user-images.githubusercontent.com/38378135/123517908-35451f80-d6d6-11eb-859a-0fa4cfaafa39.jpg)
 
 ![67762184 519e76e44c8ab5e1a8c7a1be31abbce5 21061009](https://user-images.githubusercontent.com/38378135/123517910-38401000-d6d6-11eb-98d6-f0e3c1d51f02.jpg)
-
-![67762184 bd34eb45508f47b554c4b0cef64930ba 21061009](https://user-images.githubusercontent.com/38378135/123517913-3a09d380-d6d6-11eb-999b-4eb494f06b75.jpg)

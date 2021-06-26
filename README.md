@@ -4,6 +4,8 @@ DEMO Video : https://youtu.be/N8j7PnDejmM <br>
 
 {%youtube N8j7PnDejmM%}
 
+[youtube]: https://youtu.be/N8j7PnDejmM
+
 ![67762184 7a498c580fc6a7629f93a48d85f36c49 21061009](https://user-images.githubusercontent.com/38378135/123517734-417cad00-d6d5-11eb-8e11-805101242bf8.jpg)
 
 ![67762184 3342865d5067d875754731dc6cb16f1c 21061009](https://user-images.githubusercontent.com/38378135/123517771-725ce200-d6d5-11eb-82ee-1dbe173ff64d.jpg)

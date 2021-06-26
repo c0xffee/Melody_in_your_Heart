@@ -1,9 +1,7 @@
 # Melody_in_your_Heart
 Melody Generator for your NAME.<br>
 DEMO Video : https://youtu.be/N8j7PnDejmM <br>
-
-{%youtube N8j7PnDejmM%}
-
+Click This Picture:
 [youtube]: https://youtu.be/N8j7PnDejmM
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N8j7PnDejmM/0.jpg)](https://youtu.be/N8j7PnDejmM)
